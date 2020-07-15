@@ -11,7 +11,9 @@ public class HelloWorld {
 
 		System.out.println("Adding changes to new branch develop");
 
-		System.out.println("Adding my secind change to develop branch");
+		System.out.println("Adding my second change to develop branch");
+
+		System.out.println("American developer adding his first cahnges");
 	}
 
 }
